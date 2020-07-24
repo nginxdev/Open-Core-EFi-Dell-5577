@@ -1,2 +1,2 @@
-# Open-Core-EFi-Dell-5577
-EFI Progress for opencore configuiration [10.15.6]
+# Hackintosh_OpenCore
+This is my repository which has all the booting files &amp; fixes
